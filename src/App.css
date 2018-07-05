@@ -1,0 +1,82 @@
+body{
+  background: #373B44;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* Navbar */
+
+.navbar{
+  background: #a8c0ff;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+/* Home */
+
+.container-fluid{
+  text-align: center;
+}
+.avatar-image{
+  height: 350px;
+  padding-top: 5.5rem;
+}
+p{
+  color:white;
+  text-align: center;
+}
+.dotted{
+  border-top: 1px dotted white;
+}
+
+/* Projects */
+
+.card{
+  width:18rem;
+  margin: 20px auto;
+}
+.card .card-img-top{
+  height: 200px;
+  width: 100%;
+  text-align: center;
+} 
+
+/* Contact */
+
+
+
+.contact .card .card-img-top{
+  height: 400px;
+}
+
+.contact .container-fluid{
+  background: rgb(255,255,255);
+  margin: 20px auto;
+}
+
+.contact .card .contact-me{
+  height:410px;
+}
+
+.contact-me i{
+  font-size: 30px;
+
+}
+
+/* Footer */
+
+.footer{
+  background: #a8c0ff;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3f2b96, #a8c0ff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3f2b96, #a8c0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+}
+span .text{
+  color:rgb(0,0,0);
+}
+.git-hub i{
+  color:white;
+  font-size: 3em;
+}
+
+
